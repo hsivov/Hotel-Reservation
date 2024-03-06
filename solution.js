@@ -26,6 +26,8 @@ function changeContent(className) {
     }
 }
 
+//Add some comments
+
 changeContent('search-form-content')
 
 function searchFormData(e) {
